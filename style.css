@@ -1,0 +1,31 @@
+body{
+    height: 100%;
+    width: 100vw;
+    margin: 0%;
+    background-color: #3c6e71;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    justify-content: center;
+    text-align: center;
+
+}
+.heading{
+    font-size: 70px;
+    color: white;
+}
+#datePicker{
+    height: 40px;
+    width: 250px;
+    font-size: 20px;
+    border-radius: 10px 2px 10px;
+    border: none;
+    justify-content: center;
+}
+#getDayButton{
+    height: 40px;
+    width: 110px;
+    font-size: 20px;   
+    border-radius: 2px 10px 2px;
+    border: none;
+}
